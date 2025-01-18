@@ -34,4 +34,4 @@ The project contains the following files:
   - `02_sales_data_analysis.ipynb`: Main analysis notebook with product sales and customer location insights.
 - **README.md**: This file, providing an overview and instructions.
 
-https://nbviewer.org/github/migbenav/Global-Electronics-Retailer/blob/main/GER%20-%20Analysis%2001.ipynb
+[GER - Analysis 01.ipynb (in Jupyter Viewer)](https://nbviewer.org/github/migbenav/Global-Electronics-Retailer/blob/bd9a81e0a243c13528bd6e09c018ff93eaadc987/Notebooks/GER%20-%20Analysis%2001.ipynb)
