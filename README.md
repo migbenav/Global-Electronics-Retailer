@@ -6,7 +6,6 @@ Sales data for a fictitious global electronic retailer, including tables contain
 - [Project Overview](#project-overview)
 - [File Structure](#file-structure)
 - [Data Sources](#data-sources)
-- [Charts & Visualizations](#charts--visualizations)
 - [Conclusion](#Conclusion)
 
 ## Project Overview
