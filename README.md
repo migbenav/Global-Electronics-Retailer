@@ -12,7 +12,7 @@ Sales data for a fictitious global electronic retailer, including tables contain
 ## Project Overview
 This repository contains a series of analyses related to customer behavior, store performance, and product trends, using data from the company's sales transactions. Each notebook focuses on answering specific business questions. The data used for these analyses is stored in CSV files within the data folder, and all analysis scripts are contained in the notebooks folder.
 
-##Key Objectives
+## Key Objectives
 - Understand the Product Portfolio and Customer Geography
 - Identify Seasonal Patterns in Order Volume and Revenue
 - Analyze Delivery Performance Over Time
