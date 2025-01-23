@@ -2,18 +2,24 @@
 Sales data for a fictitious global electronic retailer, including tables containing information about transactions, products, customers, stores and currency exchange rates.
 
 ## Table of Contents
-
 - [Project Overview](#project-overview)
-- [File Structure](#file-structure)
+- [Key Objectives](#key-objectives)
+- [Folder Structure](#folder-structure)
+- [Requirements](#requirements)
 - [Data Sources](#data-sources)
 - [Conclusion](#Conclusion)
 
 ## Project Overview
-
 This repository contains a series of analyses related to customer behavior, store performance, and product trends, using data from the company's sales transactions. Each notebook focuses on answering specific business questions. The data used for these analyses is stored in CSV files within the data folder, and all analysis scripts are contained in the notebooks folder.
 
-## File Structure
+##Key Objectives
+- Understand the Product Portfolio and Customer Geography
+- Identify Seasonal Patterns in Order Volume and Revenue
+- Analyze Delivery Performance Over Time
+- Evaluate Average Order Value (AOV) by Sales Channel
+- Classify Stores Using Clustering Analysis
 
+## Folder Structure
 The project contains the following files:
 
 - **data/**: Contains the raw data files, such as `sales.csv`, `products.csv`, `stores.csv`, `customers.csv`, and exchange rates.
@@ -28,8 +34,15 @@ The project contains the following files:
   - `GER - Analysis 06.ipynb`: Clustering store performance.
 - **README.md**: This file, providing an overview and instructions.
 
-## Data Sources
+## Requirements
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Plotly
+- Scikit-learn
 
+## Data Sources
 Original files could be found in [Maven](https://mavenanalytics.io/data-playground?dataStructure=Multiple%20tables&order=date_added%2Cdesc&search=retail)
 
 ## Conclusion
