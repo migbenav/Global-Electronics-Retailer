@@ -22,8 +22,8 @@ This repository contains a series of analyses related to customer behavior, stor
 ## Folder Structure
 The project contains the following files:
 
-- **data/**: Contains the raw data files, such as `sales.csv`, `products.csv`, `stores.csv`, `customers.csv`, and exchange rates.
-- **notebooks/**: Contains Jupyter notebooks for data exploration, cleaning, and analysis.
+- **Data/**: Contains the raw data files, such as `sales.csv`, `products.csv`, `stores.csv`, `customers.csv`, and exchange rates.
+- **Notebooks/**: Contains Jupyter notebooks for data exploration, cleaning, and analysis.
   - `GER - Data Loading and Cleaning.ipynb`: Notebook for data cleaning and preprocessing.
   - `GER - Analysis 01.ipynb`: Analyzing the types of products sold and customer location.
     This file contains ploty image that could be seen here [GER - Analysis 01.ipynb (in Jupyter Viewer)](https://nbviewer.org/github/migbenav/Global-Electronics-Retailer/blob/bd9a81e0a243c13528bd6e09c018ff93eaadc987/Notebooks/GER%20-%20Analysis%2001.ipynb)
@@ -32,6 +32,7 @@ The project contains the following files:
   - `GER - Analysis 04.ipynb`: Comparing the average order value for online vs. in-store sales.
   - `GER - Analysis 05.ipynb`: Identifying underperforming stores
   - `GER - Analysis 06.ipynb`: Clustering store performance.
+- **Visuals/**: Contains links to Power BI dashboard
 - **README.md**: This file, providing an overview and instructions.
 
 ## Requirements
